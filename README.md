@@ -5,7 +5,7 @@
 <!-- ABOUT -->
 ### 👨‍💻 About Me  
 
-💡 I’m a passionate **Full Stack Developer** focused on creating performant, user-centric web applications using **React** and **Python (FastAPI)**.  
+💡 I’m a passionate **Full Stack Developer** focused on developing web applications using **React** and **Python (FastAPI)**.  
 ⚙️ I love working on backend architecture, API design, and building seamless frontend experiences.  
 🌱 Currently exploring **microservices**, **serverless**, and **AI-driven integrations**.  
 💬 Ask me about **React**, **FastAPI**, **TypeScript**, **PostgreSQL**, and **Docker**.  
