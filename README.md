@@ -16,6 +16,7 @@
 <!-- TECH STACK -->
 ### 🛠️ Tech Stack  
 
+<p align="start">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -58,20 +60,23 @@
 <!-- STATS -->
 ### 📈 GitHub Analytics  
 
-  <img width="75%" src="https://github-readme-stats.vercel.app/api?username=siddhucode&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="start">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=siddhucode&show_icons=true&theme=tokyonight&hide_border=true" />
 
 
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhucode&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhucode&theme=tokyonight&hide_border=true" />
 
 
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhucode&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhucode&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
 <!-- CONNECT -->
 ### 🤝 Connect with Me  
 
-<p align="center">
+<p align="start">
   <a href="https://linkedin.com/in/siddhucode" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -86,10 +91,8 @@
   </a>
 </p>
 
----
-
 <!-- FOOTER -->
-<p align="center">
+<p align="start">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:8B5CF6&height=120&section=footer"/>
 </p>
 
