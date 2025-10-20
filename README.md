@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1>👋 Hey there, I'm <a href="https://siddhucode.github.io" target="_blank">Siddharth</a>!</h1>
-<h4>🚀 Full Stack Developer | React + FastAPI Enthusiast | Cloud & DevOps Explorer ☁️</h4>
+<h4>🚀 Full Stack Developer | React + Python | Cloud & DevOps </h4>
 
 <!-- ABOUT -->
 ### 👨‍💻 About Me  
